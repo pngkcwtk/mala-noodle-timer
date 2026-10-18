@@ -81,3 +81,7 @@ Use a local Python environment with Tkinter and desktop GUI support. Open the no
 7. When the countdown finishes, close the timer window to end the GUI session before starting another run.
 
 This repository preserves an early learning project and marks the beginning of my university Python journey in 2024!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
